@@ -27,14 +27,14 @@ To get started with this project, follow these steps:
 
 1. Clone this repository to your local machine:
 
-git clone https://github.com/sunitipandey/Selenium.git
+   git clone https://github.com/sunitipandey/Selenium.git
 
 
-Open the project in your preferred IDE.
+2.Open the project in your preferred IDE.
 
-Set up your project by configuring the Selenium WebDriver and browser driver paths.
+  Set up your project by configuring the Selenium WebDriver and browser driver paths.
 
-Run the sample Selenium tests to ensure that everything is set up correctly.
+  Run the sample Selenium tests to ensure that everything is set up correctly.
 
 ## Environment Variables
 
