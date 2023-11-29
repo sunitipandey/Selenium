@@ -145,5 +145,10 @@
     <orderEntry type="library" name="Maven: org.apache.poi:poi:5.2.4" level="project" />
     <orderEntry type="library" name="Maven: org.apache.poi:poi:5.2.2" level="project" />
     <orderEntry type="library" name="Maven: org.apache.poi:poi-ooxml:5.2.2" level="project" />
+    <orderEntry type="library" name="Maven: io.cucumber:cucumber-java:7.11.1" level="project" />
+    <orderEntry type="library" name="Maven: io.cucumber:cucumber-testng:7.11.1" level="project" />
+    <orderEntry type="library" name="Maven: io.cucumber:cucumber-core:7.11.1" level="project" />
+    <orderEntry type="library" name="Maven: io.cucumber:cucumber-java:7.0.0" level="project" />
+    <orderEntry type="library" name="Maven: io.cucumber:cucumber-testng:7.0.0" level="project" />
   </component>
 </module>
