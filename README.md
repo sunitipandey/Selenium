@@ -32,9 +32,9 @@ To get started with this project, follow these steps:
 
 2.Open the project in your preferred IDE.
 
-  Set up your project by configuring the Selenium WebDriver and browser driver paths.
+    Set up your project by configuring the Selenium WebDriver and browser driver paths.
 
-  Run the sample Selenium tests to ensure that everything is set up correctly.
+    Run the sample Selenium tests to ensure that everything is set up correctly.
 
 ## Environment Variables
 
